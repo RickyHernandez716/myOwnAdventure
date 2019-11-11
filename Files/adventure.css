@@ -1,0 +1,33 @@
+
+body {
+	background-color: black;
+}
+
+header{
+	background-color: gray;
+}
+
+h1 {
+	text-align: left;
+	color: red;
+}
+
+h2{
+	text-align: left;
+	color: red;
+}
+
+h3 {
+	text-align: left;
+	color: red;
+}
+
+p {
+	text-align: left;
+	color: red;
+}
+
+a {
+	text-align: left;
+	color: red;
+}
